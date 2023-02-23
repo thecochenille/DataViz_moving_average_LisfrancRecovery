@@ -24,6 +24,8 @@ Some of the challenges you faced and features you hope to implement in the futur
 ## Files included
 - /data folder to put in the dataset
 - StepAnalysis.ipynb : script where I visualize my step data
+- apple-health-data-parser.py : this script is from [Markwk/qs_ledger repo](https://github.com/markwk/qs_ledger) and unmodified.
+
 
 ## Github reps I used to prepare the Health data
 ### Potential issues
