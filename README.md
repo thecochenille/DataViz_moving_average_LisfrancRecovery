@@ -29,13 +29,13 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 ## Github reps I used to prepare the Health data
 ### Potential issues
-First time I exported my data from Health, there was an error with two parsers I used, it turned out it was a bug from the app export. I just updated my iOS and reexported the data from the app and the parser worked.
+First time I exported my data from Health, there was an error with the two parsers I used, it turned out it was an issue from the app export. I just updated my iOS (to version XXX) and reexported the data from the app and the parser worked.
 
 ## Python packages needed
-
+pandas, seaborn, datetime
 
 # How to use the project
-## You can use fork and use the jupyter notebook for any time series data, where you need to use moving average
+You can use fork and use the jupyter notebook for any time series data, where you need to use moving averages
 
 
 
